@@ -1,7 +1,7 @@
 import { OrderStatus } from './interfaces/order';
 import { CustomerOrderProtocol } from './interfaces/customer-protocol';
 import { ShoppingCartProtocol } from './interfaces/shopping-cart-protocol';
-import { MessageProtocol } from './interfaces/message-protocol';
+import { MessageProtocol } from './interfaces/MessageProtocol';
 import { PersistProtocol } from './interfaces/persist-protocol';
 
 export class Order {
